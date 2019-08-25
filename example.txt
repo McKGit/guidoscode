@@ -1,2 +1,0 @@
-I started this from BASH command line
-The command was start notepad example.txt and Notepad opened, asking me if I wanted to create example.txt. Now, I am supposed to modify one or more files in my repository and so I'll work with this one file. Changed my mind, will work with two - this is edited at 4:55 p.m.
