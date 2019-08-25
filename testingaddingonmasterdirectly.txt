@@ -1,0 +1,1 @@
+This is a file I added directly on the master branch of the repository. I want to see if it is added to my local repository when I do a git fetch.
