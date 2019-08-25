@@ -1,0 +1,2 @@
+I started this from BASH command line
+The command was start notepad example.txt and Notepad opened, asking me if I wanted to create example.txt.
