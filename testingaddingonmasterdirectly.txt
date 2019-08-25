@@ -1,1 +1,2 @@
-This is a file I added directly on the master branch of the repository. I want to see if it is added to my local repository when I do a git fetch.
+This is a file I added directly on the master branch of the repository. I want to see if it is added to my local repository when I do a git fetch; no it did not, I had to do a "git pull" command to get it into my local repository.
+
