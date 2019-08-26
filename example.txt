@@ -1,1 +1,0 @@
-This is a brand new file named example.txt. And now at 7:00 p.m. I am editing the file.
